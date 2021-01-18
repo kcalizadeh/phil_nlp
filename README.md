@@ -60,4 +60,6 @@ Overall, we were able to attain about 80% accuracy over 10 classes - a solid res
 The solid accuracy scores and wide-open potential applications of the model made the project seem like a promising one for further development. Our next steps include:
 - working with the Twitter API to build a function that can take a Twitter user's handle and generate a classification for that user.
 - adding additional texts to the corpus, especially those associated with Stoicism, eastern philosophy (Confucianism, Taoism, Buddhism), and contemporary political movements. 
-- building a recommender system to recommend books or other media based on a user's philosophical leanings
+- building a recommender system to recommend books or other media based on a user's philosophical leanings.
+
+Thank you for your interest. If you are interested in contributing to the project or have questions about it, please feel free to email me at kcalizadeh@gmail.com or to reach out on Twitter - @aslidsiksoraksi.
