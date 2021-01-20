@@ -5,14 +5,12 @@ A book of philosophy represents an effort to systematically organize one's thoug
 This project uses 51 texts spanning 10 schools of philosophical thought. Based on these, we develop classification models, word vectors, and general EDA. This can then be used to understand user's worldviews by comparing them to historical schools of thought. And once we understand a person's worldview, there is no limit to what we can do with that information - from advertising to political campaigning through to self-exploration and therapy. 
 
 #### Repo Contents
-- a notebook containing preliminary EDA and our work on cleaning the data
-- a notebook containing non-neural-network models (primarily Naive Bayesian models)
-- a notebook containing work on neural network models and deep NLP
-- a notebook where we develop w2v analyses for each school and author
-- a couple notebooks with preliminary work for a dash app implementing our findings
-- a functions.py file with useful NLP functions we use throughout
-- a notebook outlining steps for adding future texts to the corpus
-- a bibliography notebook citing all the relevant texts
+- a [data_load_clean notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/1_data_load_clean.ipynb) containing preliminary EDA and our work on cleaning the data
+- a [non_neural_model notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/2_non-neural_models.ipynb) containing non-neural-network models (primarily Naive Bayesian models)
+- a [w2v notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/3_w2v.ipynb) where we develop w2v analyses for each school and author
+- a [neural_networks notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/4_neural_networks.ipynb) containing work on neural network models and deep NLP
+- a [functions.py file](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/functions.py) with useful NLP functions we use throughout
+- a [bibliography notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/5_bibliography.ipynb) citing all the relevant texts
 
 Throughout the project, we implemented the OSEMN procedure for data science
 
