@@ -1,4 +1,4 @@
-![title](pictures/title_image.jpeg)
+![title](Pictures/title_image.jpeg)
 # Philosophy NLP & Text Classification
 A book of philosophy represents an effort to systematically organize one's thought about the world. Using the data from the history of philosophy to classify texts thus enable us to, by proxy, classify how people think about the world. Where some projects focus on sentiment analysis, here we focus on conceptual, or ideological analysis. 
 
