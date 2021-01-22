@@ -2,7 +2,7 @@
 # Philosophy NLP & Text Classification
 A book of philosophy represents an effort to systematically organize one's thought about the world. Using the data from the history of philosophy to classify texts thus enable us to, by proxy, classify how people think about the world. Where some projects focus on sentiment analysis, here we focus on conceptual, or ideological analysis. 
 
-This project uses 51 texts spanning 10 schools of philosophical thought. Based on these, we develop classification models, word vectors, and general EDA. This can then be used to understand user's worldviews by comparing them to historical schools of thought. And once we understand a person's worldview, there is no limit to what we can do with that information - from advertising to political campaigning through to self-exploration and therapy. 
+This project uses [51 texts spanning 10 schools of philosophical thought](https://drive.google.com/drive/folders/1OdTQzRboTOozJqX1INJoYljuA4ctttx8?usp=sharing) Based on these, we develop classification models, word vectors, and general EDA. This can then be used to understand user's worldviews by comparing them to historical schools of thought. And once we understand a person's worldview, there is no limit to what we can do with that information - from advertising to political campaigning through to self-exploration and therapy. 
 
 #### Repo Contents
 - a [data_load_clean notebook](https://github.com/kcalizadeh/phil_nlp/blob/master/Notebooks/1_data_load_clean.ipynb) containing preliminary EDA and our work on cleaning the data
